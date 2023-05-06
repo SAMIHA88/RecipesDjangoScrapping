@@ -4,6 +4,7 @@
 ## Logo:
 <img src="https://github.com/SAMIHA88/RecipesDjangoScrapping/blob/master/mysite/myapp/static/images/logo.png" width=100> 
 
+<img src="https://github.com/Amellalzakaria/Pokemon_Android_App-api/blob/master/pokes.jpeg" width=200>
 ## Fonctionnalitees:
 
  * Gestion des admins : inscription, connexion, modification de profil.
