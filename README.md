@@ -2,7 +2,7 @@
 ## Contexe:
  C'est une application de recettes culinaires développée avec Django, un framework web Python. Cette application permet aux utilisateurs de consulter des recettes, ainsi que de laisser des commentaires et des notes sur celles-ci. Les utilisateurs peuvent également rechercher des recettes selon leur choix.
 ## Logo:
-<img src="https://github.com/SAMIHA88/RecipesDjangoScrapping/issues/1#issue-1698649169" width=100> 
+<img src="https://github.com/SAMIHA88/RecipesDjangoScrapping/blob/master/mysite/myapp/static/images/logo.png" width=100> 
 
 ## Fonctionnalitees:
 
